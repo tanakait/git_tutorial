@@ -1,1 +1,5 @@
 エディタ変更
+
+git reset
+
+git commit --amend
